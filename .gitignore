@@ -1,0 +1,32 @@
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log e de debug
+*.log
+
+# Arquivos temporários / de sistema
+.DS_Store
+Thumbs.db
+
+# Dados e bancos de dados locais
+*.db
+*.sqlite
+data/
+
+# Variáveis de ambiente e segredos
+.env
+
+# Arquivos do Jupyter (caso use futuramente)
+.ipynb_checkpoints/
+
+# Arquivos de pacotes
+*.egg-info/
+dist/
+build/

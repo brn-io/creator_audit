@@ -1,0 +1,6 @@
+    pandas
+    numpy
+    scikit-learn
+    altair
+    google-generativeai
+    python-dotenv  # opcional, se quiser usar OPENAI_API_KEY
